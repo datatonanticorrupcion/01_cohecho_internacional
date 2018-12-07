@@ -1,7 +1,7 @@
 # 01 Cohecho internacional
 Información sobre investigaciones  sobre el delito de cohecho internacional
 
-# ¿Dónde están los datos?
+## ¿Dónde están los datos?
 + [xlsx] Base de datos Cohecho Internacional: http://datosabiertospgr.blob.core.windows.net/cohecho-pgr/ESTADISTICA-COHECHO-INTERNACIONAL.xlsx
 
 ## ¿Qué campos contiene?
@@ -21,5 +21,5 @@ COMENTARIOS | Breve resumen de lo que trata el expediente
 
 Diccionario de Datos: http://datosabiertospgr.blob.core.windows.net/cohecho-pgr/DICCIONARIO-DE-DATOS-UEDE.xlsx
 
-# ¿Quién otorga el dataset?
+## ¿Quién otorga el dataset?
 Procuraduría General de la República
